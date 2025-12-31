@@ -1,4 +1,4 @@
-# Hand Gesture Arpeggiator
+# Hand Gesture Music Controller
 
 View Online: https://music-controller-five.vercel.app/
 
