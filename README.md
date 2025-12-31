@@ -1,6 +1,6 @@
 # Hand Gesture Arpeggiator
 
-Hand-controlled arpeggiator + drum machine + audio reactive visualizer, served as a web app and built with threejs, mediapipe computer vision, rosebud AI, and tone.js.
+Basic hand controlled midi-controller, served as a web app and built with threejs, mediapipe computer vision, rosebud AI, and tone.js.
 
 - Hand #1: controls the arpeggios (raise hand to raise pitch, pinch to change volume)
 - Hand #2: controls the drums (raise different fingers to change the pattern)
@@ -33,13 +33,6 @@ Then open `http://localhost:8000` in your browser.
 ## License
 
 MIT License
-
-## Credits
-
-- Three.js - https://threejs.org/
-- MediaPipe - https://mediapipe.dev/
-- Rosebud AI - https://rosebud.ai/
-- Tone.js - https://tonejs.github.io/
 
 ## Contact
 
